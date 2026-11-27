@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Mis Tareas",
+    "slug": "mis-tareas-prueba-play",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.mobilepy.mistareasprueba",
+      "versionCode": 1,
+      "permissions": [],
+      "edgeToEdgeEnabled": true
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mobilepy.mistareasprueba"
+    }
+  }
+}
